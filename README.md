@@ -30,8 +30,4 @@ Then run the script
 python scripts/process.py
 ```
 
-![example branch parameter](https://github.com/open-data-kazakhstan/average-per-capita-nominal-cash-income/actions/workflows/actions.yml/badge.svg?branch=main)
-
-
-
 
