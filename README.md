@@ -2,7 +2,7 @@ Average per capita nominal cash income of the population
 
 ## Data
 
-Data is in CSV format and synced with upstream source annually. It is sourced from https://taldau.stat.gov.kz/ru/Api/GetIndexData/2709380?period=7&dics=67.
+Data is in CSV format and synced with upstream source annually. It is sourced from https://taldau.stat.gov.kz/ru/Api/GetIndexData/704447?period=7&dics=67.
 
 Official website: https://taldau.stat.gov.kz/ru/NewIndex/GetIndex/704447?regionId=741880&periodId=7#
 
@@ -29,6 +29,9 @@ Then run the script
 ```
 python scripts/process.py
 ```
+
+![example branch parameter](https://github.com/open-data-kazakhstan/average-per-capita-nominal-cash-income/actions/workflows/actions.yml/badge.svg?branch=main)
+
 
 
 
