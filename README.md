@@ -16,7 +16,7 @@ We have also added some metadata such as column descriptions and [data packaged 
 ## Preparation
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![.github/workflows/actions.yml](https://github.com/open-data-kazakhstan/average-per-capita-nominal-cash-income/workflows/.github/workflows/actions.yml/badge.svg?branch=main)
+![.github/workflows/actions.yml](https://github.com/open-data-kazakhstan/average-per-capita-nominal-cash-income/actions/workflows/actions.yml/badge.svg?branch=main)
 
 You first need to install the dependencies:
 
